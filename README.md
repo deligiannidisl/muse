@@ -20,7 +20,9 @@ Contents:
 
 &#x20; AA\_\_muse\_fnirs\_verbal\_fluencyINNERONLY.py         -- OSC recorder, modified Beer-Lambert inversion, real-time filtering
 
-&#x20; 
+&#x20; decoding\_analysis.py                              -- classifier and robustness script combined
+
+&#x20;
 
 Requires Python 3.10+, numpy, scipy, scikit-learn, python-osc.
 
